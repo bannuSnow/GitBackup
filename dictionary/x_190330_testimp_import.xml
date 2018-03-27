@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Import" max_length="40" name="x_190330_testimp_import" type="collection">
+        <element label="Name" max_length="40" name="name" type="string"/>
+        <element label="Subject" max_length="40" name="subject" type="string"/>
+    </element>
+</database>
